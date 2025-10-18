@@ -35,7 +35,7 @@
 
 ### [🚀 PromptPal](https://github.com/Raghavv1206/PROMPTPAL)
 > An AI-powered prompt crafting and testing studio that helps users create, refine, and manage prompts with an intuitive, modern interface.  
-> 🌐 **Live Demo:** [PromptPal on Vercel](https://promptpal.vercel.app/)  
+> 🌐 **Live Demo:** [PromptPal on Vercel](https://promptpal-phi.vercel.app/)  
 
 ![PromptPal Preview](https://opengraph.githubassets.com/1/Raghavv1206/PROMPTPAL)
 
