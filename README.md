@@ -65,10 +65,11 @@
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/Raghavv1206/Raghavv1206/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Raghavv1206/Raghavv1206/blob/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://github.com/Raghavv1206/Raghavv1206/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  </picture>
 </p>
-
-*(You may need to set up the GitHub Action for this animation — I can guide you if you’d like.)*
 
 ---
 
