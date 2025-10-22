@@ -23,7 +23,7 @@
 - 🌱 I’m currently learning **Data Structures & Algorithms (DSA)**  
 - 💬 Ask me about **React, Next.js, and full-stack development**  
 - 📫 Reach me at **raghavm205@gmail.com**  
-- 🌐 My Portfolio: <!-- Add your portfolio link here -->  
+<!-- - 🌐 My Portfolio:  Add your portfolio link here -->  
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=raghavv1206&label=Profile%20Views&color=4E9F3D&style=for-the-badge" alt="Profile Views" />
