@@ -44,7 +44,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,mysql,python,django,cpp,git,github,figma,docker,linux,nginx,postman&perline=10" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,mysql,postgresql,python,django,cpp,git,github,figma,docker,linux,nginx,postman&perline=10" /></a>
 </p>
 
 ---
