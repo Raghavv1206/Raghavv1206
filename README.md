@@ -33,11 +33,11 @@
 
 ## 🌟 Featured Project
 
-### [🚀 PromptPal](https://github.com/Raghavv1206/PROMPTPAL)
-> An AI-powered prompt crafting and testing studio that helps users create, refine, and manage prompts with an intuitive, modern interface.  
-> 🌐 **Live Demo:** [PromptPal on Vercel](https://promptpal-phi.vercel.app/)  
+### [🎯 AdVision](https://github.com/Raghavv1206/PROMPTPAL)
+> An AI-powered advertising campaign management platform that revolutionizes how marketers create, optimize, and analyze multi-platform ad campaigns with intelligent automation and real-time insights.  
+<!--  > 🌐 **Live Demo:** [PromptPal on Vercel](https://promptpal-phi.vercel.app/) -->  
 
-![PromptPal Preview](https://opengraph.githubassets.com/1/Raghavv1206/PROMPTPAL)
+![AdVision Preview](https://opengraph.githubassets.com/1/Raghavv1206/Advision)
 
 ---
 
