@@ -52,11 +52,12 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=raghavv1206&show_icons=true&theme=radical&hide_border=true" alt="Raghav GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Raghavv1206&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Raghavv1206&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavv1206&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raghavv1206&theme=radical" alt="Profile Summary" />
 </p>
 
 ---
