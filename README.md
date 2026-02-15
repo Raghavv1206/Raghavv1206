@@ -33,9 +33,9 @@
 
 ## 🌟 Featured Project
 
-### [🎯 AdVision](https://github.com/Raghavv1206/PROMPTPAL)
+### [🎯 AdVision](https://github.com/Raghavv1206/Advision)
 > An AI-powered advertising campaign management platform that revolutionizes how marketers create, optimize, and analyze multi-platform ad campaigns with intelligent automation and real-time insights.  
-<!--  > 🌐 **Live Demo:** [PromptPal on Vercel](https://promptpal-phi.vercel.app/) -->  
+🌐 **Live Demo:** [AdVision](https://advision-frontend.vercel.app/)
 
 ![AdVision Preview](https://opengraph.githubassets.com/1/Raghavv1206/Advision)
 
