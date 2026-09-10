@@ -8,8 +8,8 @@
 
 <h3 align="center">A passionate Computer Science student from India 🇮🇳</h3>
 
----
 <!--
+---
 ### 🎧 Now Playing on Spotify  
 <p align="center">
   <img src="https://spotify-nine-neon.vercel.app/api/spotify" alt="Spotify Now Playing" width="400" />
