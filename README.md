@@ -9,12 +9,12 @@
 <h3 align="center">A passionate Computer Science student from India 🇮🇳</h3>
 
 ---
-
+<!--
 ### 🎧 Now Playing on Spotify  
 <p align="center">
   <img src="https://spotify-nine-neon.vercel.app/api/spotify" alt="Spotify Now Playing" width="400" />
 </p>
-
+-->
 ---
 
 <img align="right" alt="Coding Animation" width="380" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif" />
@@ -23,7 +23,7 @@
 - 🌱 I’m currently learning **Data Structures & Algorithms (DSA)**  
 - 💬 Ask me about **React, Next.js, and full-stack development**  
 - 📫 Reach me at **raghavm205@gmail.com**  
-<!-- - 🌐 My Portfolio:  Add your portfolio link here -->  
+- 🌐 My Portfolio: **https://raghavmishra.dev/** 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=raghavv1206&label=Profile%20Views&color=4E9F3D&style=for-the-badge" alt="Profile Views" />
