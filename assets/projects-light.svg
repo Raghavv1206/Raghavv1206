@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="860" height="452" viewBox="0 0 860 452" role="img" aria-label="gs-projects-raghavv1206-aurora-light section">
+  <defs>
+    <linearGradient id="gs-projects-raghavv1206-aurora-light-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f6f8fc"/>
+      <stop offset="54%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f6f8fc"/>
+    </linearGradient>
+    
+    <radialGradient id="gs-projects-raghavv1206-aurora-light-orb-0" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#26baa8" stop-opacity="0.26"/>
+      <stop offset="58%" stop-color="#26baa8" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#26baa8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="gs-projects-raghavv1206-aurora-light-orb-1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#10b7d0" stop-opacity="0.2"/>
+      <stop offset="58%" stop-color="#10b7d0" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#10b7d0" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="gs-projects-raghavv1206-aurora-light-orb-2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#004ee0" stop-opacity="0.26"/>
+      <stop offset="58%" stop-color="#004ee0" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#004ee0" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="gs-projects-raghavv1206-aurora-light-orb-3" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3d09d7" stop-opacity="0.2"/>
+      <stop offset="58%" stop-color="#3d09d7" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#3d09d7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="gs-projects-raghavv1206-aurora-light-orb-4" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#d01075" stop-opacity="0.26"/>
+      <stop offset="58%" stop-color="#d01075" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#d01075" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="gs-projects-raghavv1206-aurora-light-orb-5" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#23be5b" stop-opacity="0.2"/>
+      <stop offset="58%" stop-color="#23be5b" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#23be5b" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gs-projects-raghavv1206-aurora-light-shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0f172a" stop-opacity="0.2"/>
+      <stop offset="44%" stop-color="#26baa8" stop-opacity="0.82"/>
+      <stop offset="100%" stop-color="#475569" stop-opacity="0.22"/>
+    </linearGradient>
+    <linearGradient id="gs-projects-raghavv1206-aurora-light-holo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="18%" stop-color="#f6f8fc"/>
+      <stop offset="38%" stop-color="#26baa8"/>
+      <stop offset="58%" stop-color="#475569"/>
+      <stop offset="78%" stop-color="#f6f8fc"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+      <animateTransform attributeName="gradientTransform" type="rotate" from="0 0.5 0.5" to="360 0.5 0.5" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <style>
+    #gs-projects-raghavv1206-aurora-light .aura-orb-a { animation: gs-projects-raghavv1206-aurora-light-float-a 9s ease-in-out infinite; }
+    #gs-projects-raghavv1206-aurora-light .aura-orb-b { animation: gs-projects-raghavv1206-aurora-light-float-b 11s ease-in-out infinite 1.1s; }
+    #gs-projects-raghavv1206-aurora-light .aura-orb-c { animation: gs-projects-raghavv1206-aurora-light-float-c 13s ease-in-out infinite 0.6s; }
+    #gs-projects-raghavv1206-aurora-light .aura-ring { animation: gs-projects-raghavv1206-aurora-light-ring 8s ease-in-out infinite; }
+    #gs-projects-raghavv1206-aurora-light .aura-ring-b { animation: gs-projects-raghavv1206-aurora-light-ring 10s ease-in-out infinite 1.6s; }
+    #gs-projects-raghavv1206-aurora-light .aura-chip { animation: gs-projects-raghavv1206-aurora-light-chip 650ms ease-out both; }
+    #gs-projects-raghavv1206-aurora-light .aura-cursor { animation: gs-projects-raghavv1206-aurora-light-cursor 1.1s step-end infinite; }
+    #gs-projects-raghavv1206-aurora-light .aura-bar { animation: gs-projects-raghavv1206-aurora-light-bar 1.15s ease-out both; transform-box: fill-box; transform-origin: left; }
+    #gs-projects-raghavv1206-aurora-light .aura-cell { animation: gs-projects-raghavv1206-aurora-light-cell 520ms ease-out both; }
+    @keyframes gs-projects-raghavv1206-aurora-light-cell { from { opacity: 0; transform: translateY(-3px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes gs-projects-raghavv1206-aurora-light-float-a { 0%,100% { transform: translate(0,0); opacity: .58; } 50% { transform: translate(28px,-20px); opacity: .86; } }
+    @keyframes gs-projects-raghavv1206-aurora-light-float-b { 0%,100% { transform: translate(0,0); opacity: .42; } 50% { transform: translate(-24px,18px); opacity: .72; } }
+    @keyframes gs-projects-raghavv1206-aurora-light-float-c { 0%,100% { transform: translate(0,0) scale(1); opacity: .34; } 50% { transform: translate(18px,-12px) scale(1.18); opacity: .62; } }
+    @keyframes gs-projects-raghavv1206-aurora-light-ring { 0%,100% { opacity: .06; } 50% { opacity: .22; } }
+    @keyframes gs-projects-raghavv1206-aurora-light-chip { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes gs-projects-raghavv1206-aurora-light-cursor { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
+    @keyframes gs-projects-raghavv1206-aurora-light-bar { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+  </style>
+  <g id="gs-projects-raghavv1206-aurora-light">
+    <rect width="860" height="452" rx="20" fill="url(#gs-projects-raghavv1206-aurora-light-bg)"/>
+    
+    <ellipse class="aura-orb-a" cx="138" cy="81" rx="206" ry="208" fill="url(#gs-projects-raghavv1206-aurora-light-orb-0)"/>
+    <ellipse class="aura-orb-b" cx="654" cy="99" rx="241" ry="190" fill="url(#gs-projects-raghavv1206-aurora-light-orb-1)"/>
+    <ellipse class="aura-orb-c" cx="499" cy="398" rx="310" ry="154" fill="url(#gs-projects-raghavv1206-aurora-light-orb-2)"/>
+    <ellipse class="aura-orb-b" cx="826" cy="353" rx="172" ry="190" fill="url(#gs-projects-raghavv1206-aurora-light-orb-3)"/>
+    <text x="30" y="40" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="2" fill="#26baa8">PROJECTS.LIST</text>
+    <text x="180" y="40" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#475569" fill-opacity="0.8">./projects.sh --all</text>
+    <text x="830" y="40" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#475569" fill-opacity="0.7">4 projects</text>
+    <line x1="28" y1="52" x2="832" y2="52" stroke="#26baa8" stroke-opacity="0.5" stroke-width="1.5"/>
+    <a href="https://github.com/Raghavv1206/Advision" target="_blank">
+    <g opacity="0" transform="translate(28,88)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.25s" fill="freeze"/>
+    <rect width="394" height="162" rx="13" fill="#ffffff" stroke="#d7dee8">
+      <animate attributeName="stroke-opacity" values="0.45;0.85;0.45" dur="4.5s" begin="0.25s" repeatCount="indefinite"/>
+    </rect>
+    <path d="M0 13 a13 13 0 0 1 13 -13 h368 a13 13 0 0 1 13 13 v17 h-394 z" fill="#26baa8" fill-opacity="0.06"/>
+    <line x1="0" y1="30" x2="394" y2="30" stroke="#d7dee8" stroke-opacity="0.5"/>
+    <text x="16" y="19.5" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#475569"><tspan fill="#26baa8">&#8226;</tspan> Raghavv1206/Advision</text>
+    <circle cx="378" cy="15" r="4" fill="#475569" fill-opacity="0.5"/>
+    <text x="18" y="58" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="16.5" font-weight="700" fill="#0f172a">Advision<tspan fill="#26baa8"> _<animate attributeName="opacity" values="1;0;1" dur="1.2s" begin="0.65s" repeatCount="indefinite"/></tspan></text>
+    <text x="18" y="79" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#475569">AdVision is an enterprise-grade,</text>
+    <text x="18" y="95" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#475569">AI-powered advertisement management p…</text>
+    <rect x="18" y="112" width="54" height="18" rx="9" fill="#26baa8" fill-opacity="0.14" stroke="#26baa8" stroke-opacity="0.4"/><text x="45" y="124.5" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#26baa8">Python</text>
+    <text x="18" y="150" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#475569"><tspan fill="#5594c8">&#9733;</tspan> 1<tspan fill="#475569" fill-opacity="0.7" dx="12">updated 9mo ago</tspan></text>
+    <circle cx="348" cy="92" r="25" fill="none" stroke="#475569" stroke-opacity="0.18" stroke-width="8"/><circle cx="348" cy="92" r="25" fill="none" stroke="#3572A5" stroke-width="8" stroke-dasharray="105.43 51.65" stroke-dashoffset="0.00" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="0.55s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="105.43 51.65" dur="0.6s" begin="0.55s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><circle cx="348" cy="92" r="25" fill="none" stroke="#f1e05a" stroke-width="8" stroke-dasharray="50.83 106.25" stroke-dashoffset="-105.43" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="0.73s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="50.83 106.25" dur="0.6s" begin="0.73s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><circle cx="348" cy="92" r="25" fill="none" stroke="#663399" stroke-width="8" stroke-dasharray="0.56 156.52" stroke-dashoffset="-156.26" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="0.91s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="0.56 156.52" dur="0.6s" begin="0.91s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><circle cx="348" cy="92" r="25" fill="none" stroke="#89e051" stroke-width="8" stroke-dasharray="0.16 156.92" stroke-dashoffset="-156.82" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.09s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="0.16 156.92" dur="0.6s" begin="1.09s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><circle cx="348" cy="92" r="25" fill="none" stroke="#d01075" stroke-width="8" stroke-dasharray="0.11 156.97" stroke-dashoffset="-156.97" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.27s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="0.11 156.97" dur="0.6s" begin="1.27s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><text x="348" y="96" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="700" fill="#0f172a">67%</text>
+    </g>
+  </a><a href="https://github.com/Raghavv1206/get-me-a-chai-version-2" target="_blank">
+    <g opacity="0" transform="translate(438,88)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.40s" fill="freeze"/>
+    <rect width="394" height="162" rx="13" fill="#ffffff" stroke="#d7dee8">
+      <animate attributeName="stroke-opacity" values="0.45;0.85;0.45" dur="4.5s" begin="1.10s" repeatCount="indefinite"/>
+    </rect>
+    <path d="M0 13 a13 13 0 0 1 13 -13 h368 a13 13 0 0 1 13 13 v17 h-394 z" fill="#26baa8" fill-opacity="0.06"/>
+    <line x1="0" y1="30" x2="394" y2="30" stroke="#d7dee8" stroke-opacity="0.5"/>
+    <text x="16" y="19.5" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#475569"><tspan fill="#26baa8">&#8226;</tspan> Raghavv1206/get-me-a-chai-version-2</text>
+    <circle cx="378" cy="15" r="4" fill="#475569" fill-opacity="0.5"/>
+    <text x="18" y="58" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="16.5" font-weight="700" fill="#0f172a">get-me-a-chai-version-2<tspan fill="#26baa8"> _<animate attributeName="opacity" values="1;0;1" dur="1.2s" begin="0.80s" repeatCount="indefinite"/></tspan></text>
+    <text x="18" y="79" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#475569">Get Me a Chai is a full-stack,</text>
+    <text x="18" y="95" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#475569">AI-powered crowdfunding platform that…</text>
+    <rect x="18" y="112" width="80" height="18" rx="9" fill="#26baa8" fill-opacity="0.14" stroke="#26baa8" stroke-opacity="0.4"/><text x="58" y="124.5" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#26baa8">JavaScript</text>
+    <text x="18" y="150" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#475569"><tspan fill="#f1e05a">&#9733;</tspan> 1<tspan fill="#475569" fill-opacity="0.7" dx="12">updated 6mo ago</tspan></text>
+    <circle cx="348" cy="92" r="25" fill="none" stroke="#475569" stroke-opacity="0.18" stroke-width="8"/><circle cx="348" cy="92" r="25" fill="none" stroke="#f1e05a" stroke-width="8" stroke-dasharray="156.62 0.46" stroke-dashoffset="0.00" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="0.70s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="156.62 0.46" dur="0.6s" begin="0.70s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><circle cx="348" cy="92" r="25" fill="none" stroke="#663399" stroke-width="8" stroke-dasharray="0.45 156.63" stroke-dashoffset="-156.62" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="0.88s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="0.45 156.63" dur="0.6s" begin="0.88s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><circle cx="348" cy="92" r="25" fill="none" stroke="#012456" stroke-width="8" stroke-dasharray="0.01 157.07" stroke-dashoffset="-157.07" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.06s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="0.01 157.07" dur="0.6s" begin="1.06s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><text x="348" y="96" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="700" fill="#0f172a">100%</text>
+    </g>
+  </a><a href="https://github.com/Raghavv1206/PROMPTPAL" target="_blank">
+    <g opacity="0" transform="translate(28,266)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.55s" fill="freeze"/>
+    <rect width="394" height="162" rx="13" fill="#ffffff" stroke="#d7dee8">
+      <animate attributeName="stroke-opacity" values="0.45;0.85;0.45" dur="4.5s" begin="1.95s" repeatCount="indefinite"/>
+    </rect>
+    <path d="M0 13 a13 13 0 0 1 13 -13 h368 a13 13 0 0 1 13 13 v17 h-394 z" fill="#26baa8" fill-opacity="0.06"/>
+    <line x1="0" y1="30" x2="394" y2="30" stroke="#d7dee8" stroke-opacity="0.5"/>
+    <text x="16" y="19.5" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#475569"><tspan fill="#26baa8">&#8226;</tspan> Raghavv1206/PROMPTPAL</text>
+    <circle cx="378" cy="15" r="4" fill="#475569" fill-opacity="0.5"/>
+    <text x="18" y="58" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="16.5" font-weight="700" fill="#0f172a">PROMPTPAL<tspan fill="#26baa8"> _<animate attributeName="opacity" values="1;0;1" dur="1.2s" begin="0.95s" repeatCount="indefinite"/></tspan></text>
+    <text x="18" y="79" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#475569">🚀 PromptPal is an AI-powered prompt</text>
+    <text x="18" y="95" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#475569">crafting and optimization studio. It…</text>
+    <rect x="18" y="112" width="80" height="18" rx="9" fill="#26baa8" fill-opacity="0.14" stroke="#26baa8" stroke-opacity="0.4"/><text x="58" y="124.5" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#26baa8">JavaScript</text>
+    <text x="18" y="150" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#475569"><tspan fill="#f1e05a">&#9733;</tspan> 1<tspan fill="#475569" fill-opacity="0.7" dx="12">updated 1y ago</tspan></text>
+    <circle cx="348" cy="92" r="25" fill="none" stroke="#475569" stroke-opacity="0.18" stroke-width="8"/><circle cx="348" cy="92" r="25" fill="none" stroke="#f1e05a" stroke-width="8" stroke-dasharray="155.10 1.98" stroke-dashoffset="0.00" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="0.85s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="155.10 1.98" dur="0.6s" begin="0.85s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><circle cx="348" cy="92" r="25" fill="none" stroke="#663399" stroke-width="8" stroke-dasharray="1.98 155.10" stroke-dashoffset="-155.10" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.03s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="1.98 155.10" dur="0.6s" begin="1.03s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><text x="348" y="96" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="700" fill="#0f172a">99%</text>
+    </g>
+  </a><a href="https://github.com/Raghavv1206/Bittree" target="_blank">
+    <g opacity="0" transform="translate(438,266)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.70s" fill="freeze"/>
+    <rect width="394" height="162" rx="13" fill="#ffffff" stroke="#d7dee8">
+      <animate attributeName="stroke-opacity" values="0.45;0.85;0.45" dur="4.5s" begin="2.80s" repeatCount="indefinite"/>
+    </rect>
+    <path d="M0 13 a13 13 0 0 1 13 -13 h368 a13 13 0 0 1 13 13 v17 h-394 z" fill="#26baa8" fill-opacity="0.06"/>
+    <line x1="0" y1="30" x2="394" y2="30" stroke="#d7dee8" stroke-opacity="0.5"/>
+    <text x="16" y="19.5" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#475569"><tspan fill="#26baa8">&#8226;</tspan> Raghavv1206/Bittree</text>
+    <circle cx="378" cy="15" r="4" fill="#475569" fill-opacity="0.5"/>
+    <text x="18" y="58" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="16.5" font-weight="700" fill="#0f172a">Bittree<tspan fill="#26baa8"> _<animate attributeName="opacity" values="1;0;1" dur="1.2s" begin="1.10s" repeatCount="indefinite"/></tspan></text>
+    <text x="18" y="79" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#475569">Bittree is a clone of linktree made</text>
+    <text x="18" y="95" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#475569">using next.js</text>
+    <rect x="18" y="112" width="80" height="18" rx="9" fill="#26baa8" fill-opacity="0.14" stroke="#26baa8" stroke-opacity="0.4"/><text x="58" y="124.5" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#26baa8">JavaScript</text>
+    <text x="18" y="150" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#475569"><tspan fill="#f1e05a">&#9733;</tspan> 0<tspan fill="#475569" fill-opacity="0.7" dx="12">updated 1y ago</tspan></text>
+    <circle cx="348" cy="92" r="25" fill="none" stroke="#475569" stroke-opacity="0.18" stroke-width="8"/><circle cx="348" cy="92" r="25" fill="none" stroke="#f1e05a" stroke-width="8" stroke-dasharray="156.91 0.17" stroke-dashoffset="0.00" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.00s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="156.91 0.17" dur="0.6s" begin="1.00s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><circle cx="348" cy="92" r="25" fill="none" stroke="#663399" stroke-width="8" stroke-dasharray="0.17 156.91" stroke-dashoffset="-156.91" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.18s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="0.17 156.91" dur="0.6s" begin="1.18s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><text x="348" y="96" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="700" fill="#0f172a">100%</text>
+    </g>
+  </a>
+    
+    <rect x="0.5" y="0.5" width="859" height="451" rx="19.5" fill="none" stroke="#d7dee8" stroke-opacity="0.62"/>
+  </g>
+</svg>
