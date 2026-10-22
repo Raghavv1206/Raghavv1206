@@ -1,6 +1,6 @@
 /**
  * update-assets.js
- * Utility to refresh or re-download local SVG assets for your GitHub Profile README.
+ * Utility to refresh or re-download local SVG assets with purple Midnight theme.
  * Automatically removes all third-party watermarks, branding, and ads.
  * Run: node update-assets.js
  */
@@ -17,67 +17,67 @@ if (!fs.existsSync(assetsDir)) {
 const items = [
   {
     name: 'hero-light.svg',
-    url: 'https://www.gitskins.com/api/section/hero?username=raghavv1206&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148678214%3Fv%3D4&label=Raghav%20Mishra&mode=light'
+    url: 'https://www.gitskins.com/api/section/hero?username=raghavv1206&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148678214%3Fv%3D4&label=Raghav%20Mishra&mode=light'
   },
   {
     name: 'hero-dark.svg',
-    url: 'https://www.gitskins.com/api/section/hero?username=raghavv1206&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148678214%3Fv%3D4&label=Raghav%20Mishra&mode=dark'
+    url: 'https://www.gitskins.com/api/section/hero?username=raghavv1206&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148678214%3Fv%3D4&label=Raghav%20Mishra&mode=dark'
   },
   {
     name: 'wordmark-light.svg',
-    url: 'https://www.gitskins.com/api/section/wordmark?username=raghavv1206&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148678214%3Fv%3D4&label=Raghav%20Mishra&v=cinematic-hero-wordmark-1&mode=light'
+    url: 'https://www.gitskins.com/api/section/wordmark?username=raghavv1206&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148678214%3Fv%3D4&label=Raghav%20Mishra&v=cinematic-hero-wordmark-1&mode=light'
   },
   {
     name: 'wordmark-dark.svg',
-    url: 'https://www.gitskins.com/api/section/wordmark?username=raghavv1206&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148678214%3Fv%3D4&label=Raghav%20Mishra&v=cinematic-hero-wordmark-1&mode=dark'
+    url: 'https://www.gitskins.com/api/section/wordmark?username=raghavv1206&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148678214%3Fv%3D4&label=Raghav%20Mishra&v=cinematic-hero-wordmark-1&mode=dark'
   },
   {
     name: 'highlights-light.svg',
-    url: 'https://www.gitskins.com/api/section/highlights?username=raghavv1206&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148678214%3Fv%3D4&items=Python%3A%3ACurrent%20focus%7CJavaScript%3A%3AIn%20the%20active%20build%20queue%7CCSS%3A%3AIn%20the%20active%20build%20queue&v=cinematic-highlights-2&mode=light'
+    url: 'https://www.gitskins.com/api/section/highlights?username=raghavv1206&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148678214%3Fv%3D4&items=Python%3A%3ACurrent%20focus%7CJavaScript%3A%3AIn%20the%20active%20build%20queue%7CCSS%3A%3AIn%20the%20active%20build%20queue&v=cinematic-highlights-2&mode=light'
   },
   {
     name: 'highlights-dark.svg',
-    url: 'https://www.gitskins.com/api/section/highlights?username=raghavv1206&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148678214%3Fv%3D4&items=Python%3A%3ACurrent%20focus%7CJavaScript%3A%3AIn%20the%20active%20build%20queue%7CCSS%3A%3AIn%20the%20active%20build%20queue&v=cinematic-highlights-2&mode=dark'
+    url: 'https://www.gitskins.com/api/section/highlights?username=raghavv1206&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148678214%3Fv%3D4&items=Python%3A%3ACurrent%20focus%7CJavaScript%3A%3AIn%20the%20active%20build%20queue%7CCSS%3A%3AIn%20the%20active%20build%20queue&v=cinematic-highlights-2&mode=dark'
   },
   {
     name: 'stack-light.svg',
-    url: 'https://www.gitskins.com/api/section/stack?username=raghavv1206&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148678214%3Fv%3D4&v=cinematic-stack-2&mode=light'
+    url: 'https://www.gitskins.com/api/section/stack?username=raghavv1206&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148678214%3Fv%3D4&v=cinematic-stack-2&mode=light'
   },
   {
     name: 'stack-dark.svg',
-    url: 'https://www.gitskins.com/api/section/stack?username=raghavv1206&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148678214%3Fv%3D4&v=cinematic-stack-2&mode=dark'
+    url: 'https://www.gitskins.com/api/section/stack?username=raghavv1206&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148678214%3Fv%3D4&v=cinematic-stack-2&mode=dark'
   },
   {
     name: 'projects-light.svg',
-    url: 'https://www.gitskins.com/api/section/projects?username=raghavv1206&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148678214%3Fv%3D4&repos=raghavv1206%2FAdvision%2Craghavv1206%2Fget-me-a-chai-version-2%2Craghavv1206%2FPROMPTPAL%2Craghavv1206%2FBittree&v=cinematic-projects-2&mode=light'
+    url: 'https://www.gitskins.com/api/section/projects?username=raghavv1206&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148678214%3Fv%3D4&repos=raghavv1206%2FAdvision%2Craghavv1206%2Fget-me-a-chai-version-2%2Craghavv1206%2FPROMPTPAL%2Craghavv1206%2FBittree&v=cinematic-projects-2&mode=light'
   },
   {
     name: 'projects-dark.svg',
-    url: 'https://www.gitskins.com/api/section/projects?username=raghavv1206&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148678214%3Fv%3D4&repos=raghavv1206%2FAdvision%2Craghavv1206%2Fget-me-a-chai-version-2%2Craghavv1206%2FPROMPTPAL%2Craghavv1206%2FBittree&v=cinematic-projects-2&mode=dark'
+    url: 'https://www.gitskins.com/api/section/projects?username=raghavv1206&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148678214%3Fv%3D4&repos=raghavv1206%2FAdvision%2Craghavv1206%2Fget-me-a-chai-version-2%2Craghavv1206%2FPROMPTPAL%2Craghavv1206%2FBittree&v=cinematic-projects-2&mode=dark'
   },
   {
     name: 'city-light.svg',
-    url: 'https://www.gitskins.com/api/section/city?username=raghavv1206&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148678214%3Fv%3D4&mode=light'
+    url: 'https://www.gitskins.com/api/section/city?username=raghavv1206&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148678214%3Fv%3D4&mode=light'
   },
   {
     name: 'city-dark.svg',
-    url: 'https://www.gitskins.com/api/section/city?username=raghavv1206&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148678214%3Fv%3D4&mode=dark'
+    url: 'https://www.gitskins.com/api/section/city?username=raghavv1206&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148678214%3Fv%3D4&mode=dark'
   },
   {
     name: 'chess-light.svg',
-    url: 'https://www.gitskins.com/api/section/chess?username=raghavv1206&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148678214%3Fv%3D4&v=cinematic-chess-1&mode=light'
+    url: 'https://www.gitskins.com/api/section/chess?username=raghavv1206&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148678214%3Fv%3D4&v=cinematic-chess-1&mode=light'
   },
   {
     name: 'chess-dark.svg',
-    url: 'https://www.gitskins.com/api/section/chess?username=raghavv1206&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148678214%3Fv%3D4&v=cinematic-chess-1&mode=dark'
+    url: 'https://www.gitskins.com/api/section/chess?username=raghavv1206&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148678214%3Fv%3D4&v=cinematic-chess-1&mode=dark'
   },
   {
     name: 'social-light.svg',
-    url: 'https://www.gitskins.com/api/section/social?username=raghavv1206&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148678214%3Fv%3D4&v=cinematic-social-2&mode=light'
+    url: 'https://www.gitskins.com/api/section/social?username=raghavv1206&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148678214%3Fv%3D4&v=cinematic-social-2&mode=light'
   },
   {
     name: 'social-dark.svg',
-    url: 'https://www.gitskins.com/api/section/social?username=raghavv1206&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148678214%3Fv%3D4&v=cinematic-social-2&mode=dark'
+    url: 'https://www.gitskins.com/api/section/social?username=raghavv1206&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148678214%3Fv%3D4&v=cinematic-social-2&mode=dark'
   }
 ];
 
@@ -116,7 +116,7 @@ function download(item) {
 }
 
 async function run() {
-  console.log('Refreshing SVG assets...');
+  console.log('Refreshing SVG assets (Purple Midnight theme)...');
   for (const item of items) {
     try {
       await download(item);
