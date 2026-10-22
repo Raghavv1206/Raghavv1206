@@ -113,11 +113,6 @@
 
 <p align="center"><sub>Every building represents a day; taller structures mark heavier contribution velocity.</sub></p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raghavv1206&theme=tokyonight&background=020617&ring=818cf8&fire=c084fc&currStreakLabel=a5b4fc&hide_border=true" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Raghavv1206&show_icons=true&bg_color=020617&title_color=c084fc&text_color=e0e7ff&icon_color=818cf8&border_color=818cf8&border_radius=16&hide_border=true" alt="GitHub Stats" width="49%" />
-</p>
-
 ---
 
 ### ✦ Play The Next Move
