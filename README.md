@@ -116,7 +116,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/chess-dark.svg" />
-  <img src="./assets/chess-dark.svg" width="400" alt="Raghav Mishra Animated Midnight Chess Board" />
+  <img src="./assets/chess-dark.svg" width="540" alt="Raghav Mishra Animated Midnight Chess Board" />
 </picture>
 
 <p align="center">
