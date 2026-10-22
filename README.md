@@ -117,31 +117,6 @@
 </picture>
 
 <p align="center">
-  <img src="./assets/repo.png" width="100%" alt="Top Repositories" />
-</p>
-
-<div align="center">
-  <a href="https://github.com/Raghavv1206/Advision"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Raghavv1206&repo=Advision&theme=midnight&border_radius=8" alt="AdVision Pin" /></a>
-  <a href="https://github.com/Raghavv1206/get-me-a-chai-version-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Raghavv1206&repo=get-me-a-chai-version-2&theme=midnight&border_radius=8" alt="Get Me A Chai Pin" /></a>
-  <br />
-  <a href="https://github.com/Raghavv1206/PROMPTPAL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Raghavv1206&repo=PROMPTPAL&theme=midnight&border_radius=8" alt="PromptPal Pin" /></a>
-  <a href="https://github.com/Raghavv1206/Medimate-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Raghavv1206&repo=Medimate-AI&theme=midnight&border_radius=8" alt="MediMate AI Pin" /></a>
-</div>
-
-<br />
-
-<div align="center">
-
-| Project | Architecture Highlights | Links |
-| :--- | :--- | :---: |
-| **🎯 [AdVision](https://github.com/Raghavv1206/Advision)** | Multi-modal GenAI advertising suite generating copy via **DeepSeek V3.1** & creative visuals via **Stability AI** across 5+ platforms with chi-square A/B testing and linear regression conversion forecasting. | [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000?style=flat-square&logo=vercel)](https://advision-frontend.vercel.app/) [![GitHub](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/Raghavv1206/Advision) |
-| **☕ [Get Me A Chai (v2)](https://github.com/Raghavv1206/get-me-a-chai-version-2)** | Creator monetization & crowdfunding ecosystem on **Next.js 15.5** & **MongoDB** with per-creator **Razorpay payments**, HMAC-SHA256 signature verification, and 10 OpenRouter AI endpoints. | [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000?style=flat-square&logo=vercel)](https://raghavs-get-me-a-chai.vercel.app/) [![GitHub](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/Raghavv1206/get-me-a-chai-version-2) |
-| **💡 [PromptPal](https://github.com/Raghavv1206/PROMPTPAL)** | Prompt engineering workspace with interactive **Spline 3D WebGL** runtime animations, multi-model evaluation workflows, and real-time OpenAI API telemetry. | [![GitHub](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/Raghavv1206/PROMPTPAL) |
-| **💊 [MediMate AI](https://github.com/Raghavv1206/Medimate-AI)** | Clinical medication adherence platform with **WhatsApp Cloud API** 1-tap quick replies, 3-Tier fail-safe escalation to **Twilio voice robocalls**, and **Llama 3.3** active ingredient validation. | [![GitHub](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/Raghavv1206/Medimate-AI) |
-
-</div>
-
-<p align="center">
   <img src="./assets/chess.png" width="100%" alt="Community Chess" />
 </p>
 
@@ -209,3 +184,7 @@
 <p align="center"><sub>Powered by GitHub Actions & python-chess. When you submit a move issue, automation validates the move, advances the board, and logs your turn.</sub></p>
 
 </div>
+
+<p align="center">
+  <img src="./assets/repo.png" width="100%" alt="Top Repositories" />
+</p>
