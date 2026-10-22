@@ -24,10 +24,10 @@
         </tr>
         <tr>
           <td align="center"><br><a href="https://www.linkedin.com/in/raghav-mishra-677418316/" title="Linkedin"><img src="https://cdn.jsdelivr.net/gh/yogeshwaran01/yogeshwaran01@latest/svgs/linkedin.svg" alt="Linkedin" width="40px" height="40px"></a><br><br></td>
-          <td align="center"><br><a href="https://x.com/Raghavv1206" title="X (Twitter)"><img src="https://cdn.jsdelivr.net/gh/yogeshwaran01/yogeshwaran01@latest/svgs/x.svg" alt="X" width="40px" height="40px"></a><br><br></td>
+          <td align="center"><br><a href="https://x.com/RaghavMish88578" title="X (Twitter)"><img src="https://cdn.jsdelivr.net/gh/yogeshwaran01/yogeshwaran01@latest/svgs/x.svg" alt="X" width="40px" height="40px"></a><br><br></td>
           <td align="center"><br><a href="mailto:raghavm205@gmail.com" title="Gmail"><img src="https://cdn.jsdelivr.net/gh/yogeshwaran01/yogeshwaran01@latest/svgs/gmail.svg" alt="Gmail" width="40px" height="40px"></a><br><br></td>
           <td align="center"><br><a href="https://raghavmishra.dev" title="Website"><img src="https://cdn.jsdelivr.net/gh/yogeshwaran01/yogeshwaran01@latest/svgs/website.svg" alt="Website" width="40px" height="40px"></a><br><br></td>
-          <td align="center"><br><a href="https://leetcode.com/u/Raghavv1206/" title="LeetCode"><img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="40px" height="40px"></a><br><br></td>
+          <td align="center"><br><a href="https://leetcode.com/u/raghavm205/" title="LeetCode"><img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="40px" height="40px"></a><br><br></td>
           <td align="center"><br><a href="https://github.com/Raghavv1206" title="GitHub"><img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="40px" height="40px"></a><br><br></td>
         </tr>
       </table>
@@ -47,46 +47,46 @@
 
 <div align="center">
   <table width="100%">
-    <!-- ROW 1: Languages & Core Web -->
+    <!-- ROW 1: Programming Languages & Core Web -->
     <tr>
       <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=cpp" width="40px"/><br>C++</td>
       <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=py" width="40px"/><br>Python</td>
-      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=js" width="40px"/><br>JS</td>
-      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=ts" width="40px"/><br>TS</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=js" width="40px"/><br>JavaScript</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=ts" width="40px"/><br>TypeScript</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=html" width="40px"/><br>HTML5</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=css" width="40px"/><br>CSS3</td>
       <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=react" width="40px"/><br>React</td>
       <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=nextjs" width="40px"/><br>Next.js</td>
       <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=tailwind" width="40px"/><br>Tailwind</td>
       <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=redux" width="40px"/><br>Redux</td>
-      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=html" width="40px"/><br>HTML</td>
-      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=css" width="40px"/><br>CSS</td>
     </tr>
-    <!-- ROW 2: Backend & Databases -->
+    <!-- ROW 2: Backend, Microservices & APIs -->
     <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="40px"/><br>FastAPI</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=django" width="40px"/><br>Django</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40px"/><br>Node.js</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=express" width="40px"/><br>Express</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="40px"/><br>Postgres</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="40px"/><br>PostgreSQL</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="40px"/><br>MySQL</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="40px"/><br>MongoDB</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="40px"/><br>Redis</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="40px"/><br>Supabase</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="40px"/><br>Firebase</td>
     </tr>
-    <!-- ROW 3: GenAI, Machine Learning & Data -->
+    <!-- ROW 3: Machine Learning, GenAI & Applied AI -->
     <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="40px"/><br>PyTorch</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="40px"/><br>TensorFlow</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40px"/><br>Sklearn</td>
-      <td align="center"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40px"/><br>HFace</td>
-      <td align="center"><img src="https://img.icons8.com/color/48/parrot.png" width="40px"/><br>LangChain</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=scikitlearn" width="40px"/><br>Scikit-Learn</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40px"/><br>NumPy</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40px"/><br>Pandas</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=opencv" width="40px"/><br>OpenCV</td>
       <td align="center"><img src="https://cdn.simpleicons.org/openai/412991" width="40px"/><br>OpenAI</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40px"/><br>Streamlit</td>
+      <td align="center"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40px"/><br>DeepSeek</td>
+      <td align="center"><img src="https://cdn.simpleicons.org/meta/0081FB" width="40px"/><br>Llama 3</td>
+      <td align="center"><img src="https://cdn.simpleicons.org/twilio/F22F46" width="40px"/><br>Twilio</td>
+      <td align="center"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40px"/><br>WhatsApp API</td>
+      <td align="center"><img src="https://cdn.simpleicons.org/razorpay/0C2340" width="40px"/><br>Razorpay</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=vite" width="40px"/><br>Vite</td>
     </tr>
-    <!-- ROW 4: DevOps, Cloud & Tools -->
+    <!-- ROW 4: Cloud, DevOps & Engineering Tools -->
     <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="40px"/><br>Docker</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="40px"/><br>Linux</td>
