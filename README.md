@@ -39,9 +39,7 @@
 </table>
 </div>
 
-<p align="center">
-  <img src="./assets/city-dark.svg" width="100%" alt="Raghav Mishra 3D Isometric Contribution Graph" />
-</p>
+![](https://raw.githubusercontent.com/Raghavv1206/Raghavv1206/main/profile-3d-contrib/profile-night-green.svg)
 
 <p align="center">
   <img src="./assets/skill.png" width="100%" alt="Skill Set" />
@@ -143,16 +141,15 @@
 
 </div>
 
-<br />
-<hr />
+<p align="center">
+  <img src="./assets/chess.png" width="100%" alt="Community Chess" />
+</p>
 
 <div align="center">
 
-### ♟️ Play The Next Move
-
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/chess-dark.svg" />
-  <img src="./assets/chess-dark.svg" width="540" alt="Raghav Mishra Animated Midnight Chess Board" />
+  <img src="./assets/chess-dark.svg" width="540" alt="Raghav Mishra Emerald Contribution Chess Board" />
 </picture>
 
 <p align="center">
