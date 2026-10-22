@@ -62,42 +62,42 @@
     </tr>
     <!-- ROW 2: Backend, Microservices & Databases -->
     <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="40px"/><br>FastAPI</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=django" width="40px"/><br>Django</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40px"/><br>Node.js</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=express" width="40px"/><br>Express</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="40px"/><br>PostgreSQL</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="40px"/><br>MySQL</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="40px"/><br>MongoDB</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="40px"/><br>Redis</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="40px"/><br>Supabase</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="40px"/><br>Firebase</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=fastapi" width="40px"/><br>FastAPI</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=django" width="40px"/><br>Django</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=nodejs" width="40px"/><br>Node.js</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=express" width="40px"/><br>Express</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=postgres" width="40px"/><br>PostgreSQL</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=mysql" width="40px"/><br>MySQL</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=mongodb" width="40px"/><br>MongoDB</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=redis" width="40px"/><br>Redis</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=supabase" width="40px"/><br>Supabase</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=firebase" width="40px"/><br>Firebase</td>
     </tr>
     <!-- ROW 3: ML, Data Science & GenAI -->
     <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=scikitlearn" width="40px"/><br>Scikit-Learn</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40px"/><br>NumPy</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40px"/><br>Pandas</td>
-      <td align="center"><img src="./assets/icons/matplotlib.svg" width="40px"/><br>Matplotlib</td>
-      <td align="center"><img src="./assets/icons/seaborn.svg" width="40px"/><br>Seaborn</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=jupyter" width="40px"/><br>Jupyter</td>
-      <td align="center"><img src="./assets/icons/openai.svg" width="40px"/><br>OpenAI</td>
-      <td align="center"><img src="./assets/icons/deepseek.svg" width="40px"/><br>DeepSeek</td>
-      <td align="center"><img src="./assets/icons/ollama.svg" width="40px"/><br>Ollama</td>
-      <td align="center"><img src="./assets/icons/langchain.svg" width="40px"/><br>LangChain</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=scikitlearn" width="40px"/><br>Scikit-Learn</td>
+      <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40px"/><br>NumPy</td>
+      <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40px"/><br>Pandas</td>
+      <td align="center" width="10%"><img src="./assets/icons/matplotlib.svg" width="40px"/><br>Matplotlib</td>
+      <td align="center" width="10%"><img src="./assets/icons/seaborn.svg" width="40px"/><br>Seaborn</td>
+      <td align="center" width="10%"><img src="./assets/icons/jupyter.svg" width="40px"/><br>Jupyter</td>
+      <td align="center" width="10%"><img src="./assets/icons/openai.svg" width="40px"/><br>OpenAI</td>
+      <td align="center" width="10%"><img src="./assets/icons/deepseek.svg" width="40px"/><br>DeepSeek</td>
+      <td align="center" width="10%"><img src="./assets/icons/ollama.svg" width="40px"/><br>Ollama</td>
+      <td align="center" width="10%"><img src="./assets/icons/langchain.svg" width="40px"/><br>LangChain</td>
     </tr>
     <!-- ROW 4: Cloud, DevOps & Engineering Tools -->
     <tr>
-      <td align="center"><img src="./assets/icons/huggingface.svg" width="40px"/><br>Hugging Face</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="40px"/><br>Docker</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="40px"/><br>Linux</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=git" width="40px"/><br>Git</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=github" width="40px"/><br>GitHub</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="40px"/><br>AWS</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="40px"/><br>Postman</td>
-      <td align="center"><img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="40px"/><br>Cloudinary</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="40px"/><br>VS Code</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="40px"/><br>Figma</td>
+      <td align="center" width="10%"><img src="./assets/icons/huggingface.svg" width="40px"/><br>Hugging Face</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=docker" width="40px"/><br>Docker</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=linux" width="40px"/><br>Linux</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=git" width="40px"/><br>Git</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=github" width="40px"/><br>GitHub</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=aws" width="40px"/><br>AWS</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=postman" width="40px"/><br>Postman</td>
+      <td align="center" width="10%"><img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="40px"/><br>Cloudinary</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=vscode" width="40px"/><br>VS Code</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=figma" width="40px"/><br>Figma</td>
     </tr>
   </table>
 </div>
