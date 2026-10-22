@@ -103,11 +103,11 @@
 </div>
 
 <p align="center">
-  <img src="./assets/fav_book.png" width="100%" alt="Favorite Books" />
+  <img src="./assets/dsa_banner.png" width="100%" alt="Problem Solving &amp; Algorithmic Rigor" />
 </p>
 
 <div align="center">
-  <img src="./assets/books.png" width="100%" alt="Favorite Technical Bookshelf" />
+  <img src="./assets/dsa_stats.png" width="100%" alt="500+ DSA Problems Solved &amp; Competitive Milestones" />
 </div>
 
 <picture>
