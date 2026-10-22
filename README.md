@@ -98,26 +98,32 @@
 <br />
 
 #### 🎯 [AdVision – Multi-Modal Generative AI Advertising Platform](https://github.com/Raghavv1206/Advision) &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000?style=flat-square&logo=vercel)](https://advision-frontend.vercel.app/) [![Repo Stars](https://img.shields.io/github/stars/Raghavv1206/Advision?style=flat-square&color=818cf8)](https://github.com/Raghavv1206/Advision)
-- Architected a multi-modal GenAI advertising platform using **Django REST Framework** and **PostgreSQL**.
-- Automated platform-specific ad copy generation via **DeepSeek V3.1** and marketing visual generation via **Stability AI/Pollinations** for Instagram, Facebook, LinkedIn, TikTok, and YouTube.
-- Engineered campaign analytics with **chi-square A/B testing (p < 0.05)**, **7-day conversion forecasting using scikit-learn Linear Regression**, and automated budget allocation recommendations.
-- Secured third-party credentials with **Fernet encryption**.
-- **Stack**: `Python` · `Django REST` · `PostgreSQL` · `DeepSeek` · `Stability AI` · `scikit-learn` · `Next.js`
+- Architected an enterprise-grade GenAI advertising platform leveraging **Django REST Framework**, **PostgreSQL**, and **React**.
+- Automated cross-platform ad copy synthesis via **DeepSeek V3.1** and marketing visual generation with **Stability AI / Pollinations.ai** across Instagram, Facebook, LinkedIn, TikTok, and YouTube.
+- Built campaign analytics with **chi-square A/B testing (p < 0.05)**, **7-day conversion forecasting using scikit-learn Linear Regression**, and demographic ROAS benchmarks.
+- Hardened credentials using **Fernet cryptography** and routed media delivery through global **Cloudinary CDN**.
+- **Stack**: `Python` · `Django REST` · `PostgreSQL` · `DeepSeek` · `Stability AI` · `scikit-learn` · `React` · `Cloudinary`
 
-#### ☕ [Get Me A Chai – AI-Powered Creator Monetization Platform](https://github.com/Raghavv1206/get-me-a-chai-version-2) &nbsp; [![Repo Stars](https://img.shields.io/github/stars/Raghavv1206/get-me-a-chai-version-2?style=flat-square&color=818cf8)](https://github.com/Raghavv1206/get-me-a-chai-version-2)
-- Built a modern crowdfunding platform on **Next.js 15** with per-creator **Razorpay payments**, **HMAC-SHA256 signature verification**, duplicate-payment protection, and recurring subscriptions for direct creator settlement.
-- Implemented **10 AI endpoints via OpenRouter** (campaign generation, scoring, content moderation, recommendations, chatbot).
-- Protected API routes with **Zod validation**, role-based route guards, and per-endpoint rate limiting; added creator analytics with PDF/CSV data export.
-- **Stack**: `Next.js 15` · `React 19` · `TypeScript` · `Tailwind CSS` · `MongoDB` · `OpenRouter` · `Razorpay`
+#### ☕ [Get Me A Chai (v2) – AI-Powered Creator Monetization & Crowdfunding Platform](https://github.com/Raghavv1206/get-me-a-chai-version-2) &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000?style=flat-square&logo=vercel)](https://raghavs-get-me-a-chai.vercel.app/) [![Repo Stars](https://img.shields.io/github/stars/Raghavv1206/get-me-a-chai-version-2?style=flat-square&color=818cf8)](https://github.com/Raghavv1206/get-me-a-chai-version-2)
+- Engineered a high-concurrency creator crowdfunding ecosystem on **Next.js 15.5** and **React 19.1** backed by **MongoDB**.
+- Integrated per-creator **Razorpay payments**, **HMAC-SHA256 signature verification**, duplicate-payment protection, and recurring subscriptions for direct creator settlement.
+- Implemented **10 AI endpoints via OpenRouter** for AI story generation, milestone planning, quality scoring (0–100), automated moderation, and creator support.
+- Built canvas-based interactive scrollytelling animations, protected routes with **Zod schema validation**, and delivered analytics with PDF/CSV reporting.
+- **Stack**: `Next.js 15` · `React 19` · `TypeScript` · `MongoDB` · `Tailwind CSS 4` · `OpenRouter (DeepSeek)` · `Razorpay`
 
-#### 🏢 [BHEL Connect – Enterprise Employee Marketplace](https://github.com/Raghavv1206)
-- Built and deployed an internal employee marketplace and group-buying platform end-to-end for Bharat Heavy Electricals Ltd. (BHEL).
-- Integrated role-based authentication, real-time listing feeds, and Redis caching for optimal latency.
-- **Stack**: `Django REST Framework` · `React 18+` · `PostgreSQL` · `Redis` · `Render` · `Vercel`
+#### 💡 [PromptPal – AI Prompt Engineering & 3D Interactive Studio](https://github.com/Raghavv1206/PROMPTPAL) &nbsp; [![Repo Stars](https://img.shields.io/github/stars/Raghavv1206/PROMPTPAL?style=flat-square&color=818cf8)](https://github.com/Raghavv1206/PROMPTPAL)
+- Built an intelligent prompt experimentation and benchmarking workspace on **Next.js 15.5**, **React 19.1**, and **MongoDB**.
+- Features interactive **Spline 3D WebGL runtime** visuals, dynamic prompt evaluation workflows, and multi-model benchmark telemetry.
+- Integrated **OpenAI API** pipelines for prompt optimization, few-shot generation, and **NextAuth** OAuth authentication.
+- Visualized prompt latency, token economy, and evaluation metrics using **Recharts** and **Framer Motion** micro-interactions.
+- **Stack**: `Next.js 15` · `React 19` · `TypeScript` · `OpenAI API` · `Spline 3D` · `MongoDB` · `Framer Motion`
 
-#### 💡 [PromptPal – AI Prompt Optimization Studio](https://github.com/Raghavv1206/PROMPTPAL) &nbsp; [![Repo Stars](https://img.shields.io/github/stars/Raghavv1206/PROMPTPAL?style=flat-square&color=818cf8)](https://github.com/Raghavv1206/PROMPTPAL)
-- Interactive prompt crafting and benchmarking platform enabling developers to test, optimize, and evaluate LLM responses across model parameters.
-- **Stack**: `JavaScript` · `React` · `LLM APIs` · `Tailwind CSS`
+#### 💊 [MediMate AI – Intelligent Medication Adherence & Multi-Tier Escalation Platform](https://github.com/Raghavv1206/Medimate-AI) &nbsp; [![Repo Stars](https://img.shields.io/github/stars/Raghavv1206/Medimate-AI?style=flat-square&color=818cf8)](https://github.com/Raghavv1206/Medimate-AI)
+- Engineered a patient-centric, zero-friction healthcare adherence platform with a conversational **WhatsApp Cloud API** interface (1-tap quick replies).
+- Implemented an automated **3-Tier Fail-Safe Escalation Pipeline**: T+00m WhatsApp reminder → T+15m follow-up → T+45m Caretaker alert → T+75m carrier-grade **Twilio automated voice robocall** (`Polly.Aditi`).
+- Developed an explainable **5-Factor Deterministic Clinical Risk Engine (0–100 score)** analyzing short-term omission, regimen complexity, consecutive lapses, and 7-day predictive adherence forecasts.
+- Integrated **Meta Llama 3.3 70B** for duplicate active ingredient/overdose blocking and dynamic empathetic compliance coaching.
+- **Stack**: `Python` · `Django 5.0` · `React 19` · `Vite` · `Tailwind CSS 4` · `PostgreSQL` · `WhatsApp Cloud API` · `Twilio Voice` · `Meta Llama 3.3`
 
 ---
 
