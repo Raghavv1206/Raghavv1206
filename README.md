@@ -121,7 +121,7 @@
 
 <p align="center">
   <b>♟️ Open Community Chess Tournament</b><br />
-  Anyone visiting my profile can play! It's your turn to move a <b><!-- BEGIN TURN -->white<!-- END TURN --></b> piece.
+  Anyone visiting my profile can play! It's your turn to move a <b><!-- BEGIN TURN -->black<!-- END TURN --></b> piece.
 </p>
 
 <!-- BEGIN CHESS BOARD -->
@@ -135,16 +135,16 @@
 <!-- BEGIN MOVES LIST -->
 |  FROM  | TO (Just click a link!) |
 | :----: | :---------------------- |
-| **A2** | [A3](https://github.com/Raghavv1206/Raghavv1206/issues/new?title=Chess%3A+Move+A2+to+A3&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD), [A4](https://github.com/Raghavv1206/Raghavv1206/issues/new?title=Chess%3A+Move+A2+to+A4&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD) |
-| **B1** | [A3](https://github.com/Raghavv1206/Raghavv1206/issues/new?title=Chess%3A+Move+B1+to+A3&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD), [C3](https://github.com/Raghavv1206/Raghavv1206/issues/new?title=Chess%3A+Move+B1+to+C3&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD) |
-| **B2** | [B3](https://github.com/Raghavv1206/Raghavv1206/issues/new?title=Chess%3A+Move+B2+to+B3&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD), [B4](https://github.com/Raghavv1206/Raghavv1206/issues/new?title=Chess%3A+Move+B2+to+B4&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD) |
-| **C2** | [C3](https://github.com/Raghavv1206/Raghavv1206/issues/new?title=Chess%3A+Move+C2+to+C3&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD), [C4](https://github.com/Raghavv1206/Raghavv1206/issues/new?title=Chess%3A+Move+C2+to+C4&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD) |
-| **D2** | [D3](https://github.com/Raghavv1206/Raghavv1206/issues/new?title=Chess%3A+Move+D2+to+D3&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD), [D4](https://github.com/Raghavv1206/Raghavv1206/issues/new?title=Chess%3A+Move+D2+to+D4&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD) |
-| **E2** | [E3](https://github.com/Raghavv1206/Raghavv1206/issues/new?title=Chess%3A+Move+E2+to+E3&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD), [E4](https://github.com/Raghavv1206/Raghavv1206/issues/new?title=Chess%3A+Move+E2+to+E4&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD) |
-| **F2** | [F3](https://github.com/Raghavv1206/Raghavv1206/issues/new?title=Chess%3A+Move+F2+to+F3&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD), [F4](https://github.com/Raghavv1206/Raghavv1206/issues/new?title=Chess%3A+Move+F2+to+F4&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD) |
-| **G1** | [F3](https://github.com/Raghavv1206/Raghavv1206/issues/new?title=Chess%3A+Move+G1+to+F3&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD), [H3](https://github.com/Raghavv1206/Raghavv1206/issues/new?title=Chess%3A+Move+G1+to+H3&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD) |
-| **G2** | [G3](https://github.com/Raghavv1206/Raghavv1206/issues/new?title=Chess%3A+Move+G2+to+G3&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD), [G4](https://github.com/Raghavv1206/Raghavv1206/issues/new?title=Chess%3A+Move+G2+to+G4&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD) |
-| **H2** | [H3](https://github.com/Raghavv1206/Raghavv1206/issues/new?title=Chess%3A+Move+H2+to+H3&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD), [H4](https://github.com/Raghavv1206/Raghavv1206/issues/new?title=Chess%3A+Move+H2+to+H4&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD) |
+| **A7** | [A5](https://github.com/Raghavv1206/Raghavv1206/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+A7+to+A5), [A6](https://github.com/Raghavv1206/Raghavv1206/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+A7+to+A6) |
+| **B7** | [B5](https://github.com/Raghavv1206/Raghavv1206/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B7+to+B5), [B6](https://github.com/Raghavv1206/Raghavv1206/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B7+to+B6) |
+| **B8** | [A6](https://github.com/Raghavv1206/Raghavv1206/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B8+to+A6), [C6](https://github.com/Raghavv1206/Raghavv1206/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B8+to+C6) |
+| **C7** | [C5](https://github.com/Raghavv1206/Raghavv1206/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+C7+to+C5), [C6](https://github.com/Raghavv1206/Raghavv1206/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+C7+to+C6) |
+| **D7** | [D5](https://github.com/Raghavv1206/Raghavv1206/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+D7+to+D5), [D6](https://github.com/Raghavv1206/Raghavv1206/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+D7+to+D6) |
+| **E7** | [E5](https://github.com/Raghavv1206/Raghavv1206/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+E7+to+E5), [E6](https://github.com/Raghavv1206/Raghavv1206/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+E7+to+E6) |
+| **F7** | [F5](https://github.com/Raghavv1206/Raghavv1206/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+F7+to+F5), [F6](https://github.com/Raghavv1206/Raghavv1206/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+F7+to+F6) |
+| **G7** | [G5](https://github.com/Raghavv1206/Raghavv1206/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+G7+to+G5), [G6](https://github.com/Raghavv1206/Raghavv1206/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+G7+to+G6) |
+| **G8** | [F6](https://github.com/Raghavv1206/Raghavv1206/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+G8+to+F6), [H6](https://github.com/Raghavv1206/Raghavv1206/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+G8+to+H6) |
+| **H7** | [H5](https://github.com/Raghavv1206/Raghavv1206/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+H7+to+H5), [H6](https://github.com/Raghavv1206/Raghavv1206/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+H7+to+H6) |
 <!-- END MOVES LIST -->
 
 </details>
@@ -157,15 +157,17 @@
 
 | Move | Author |
 | :--: | :----- |
-| `Start game` | [@Raghavv1206](https://github.com/Raghavv1206) |
+| `A2` to `A4` | [ @Raghavv1206](https://github.com/Raghavv1206) |
+| `Start game` | [ @Raghavv1206](https://github.com/Raghavv1206) |
 
 <!-- END LAST MOVES -->
 
 #### Top Players
 <!-- BEGIN TOP MOVES -->
 
-| Total moves | User |
-| :---------: | :--- |
+| Total moves |  User  |
+| :---------: | :----- |
+| 1 | [@Raghavv1206](https://github.com/Raghavv1206) |
 
 <!-- END TOP MOVES -->
 
