@@ -1,96 +1,154 @@
-<div align="center">
-
-# ✦ Raghav Mishra ✦
-### Full-Stack & Applied AI/ML Engineer
-<p align="center">Building intelligent production systems, real-time architectures, and interactive web experiences.</p>
-
 <p align="center">
-  <a href="http://raghavmishra.dev/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-raghavmishra.dev-8B5CF6?style=for-the-badge&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/raghav-mishra-677418316/">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-Raghav_Mishra-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/raghavv1206">
-    <img src="https://img.shields.io/badge/🐙_GitHub-raghavv1206-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="mailto:raghavm205@gmail.com">
-    <img src="https://img.shields.io/badge/📬_Email-raghavm205%40gmail.com-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="./assets/header.png" width="100%" alt="Raghav Mishra - Full Stack & GenAI Engineer" />
 </p>
 
-<!-- Cinematic Hero Card -->
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
-  <img src="./assets/hero-dark.svg" width="100%" alt="Raghav Mishra profile card" />
-</picture>
+<p align="center">
+  <img src="./assets/who_i_am.png" width="100%" alt="Who I Am - Raghav Mishra" />
+</p> 
 
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="200" align="center">
+      <img src="./assets/left-tile.jpg" width="150px" alt="Profile graphic left"/>
+    </td>
+    <td align="center">
+      <table border="0" cellspacing="0" cellpadding="8">
+        <tr>
+          <th>Linkedin</th>
+          <th>X (Twitter)</th>
+          <th>Gmail</th>
+          <th>Website</th>
+          <th>LeetCode</th>
+          <th>GitHub</th>
+        </tr>
+        <tr>
+          <td align="center"><br><a href="https://www.linkedin.com/in/raghav-mishra-677418316/" title="Linkedin"><img src="https://cdn.jsdelivr.net/gh/yogeshwaran01/yogeshwaran01@latest/svgs/linkedin.svg" alt="Linkedin" width="40px" height="40px"></a><br><br></td>
+          <td align="center"><br><a href="https://x.com/Raghavv1206" title="X (Twitter)"><img src="https://cdn.jsdelivr.net/gh/yogeshwaran01/yogeshwaran01@latest/svgs/x.svg" alt="X" width="40px" height="40px"></a><br><br></td>
+          <td align="center"><br><a href="mailto:raghavm205@gmail.com" title="Gmail"><img src="https://cdn.jsdelivr.net/gh/yogeshwaran01/yogeshwaran01@latest/svgs/gmail.svg" alt="Gmail" width="40px" height="40px"></a><br><br></td>
+          <td align="center"><br><a href="https://raghavmishra.dev" title="Website"><img src="https://cdn.jsdelivr.net/gh/yogeshwaran01/yogeshwaran01@latest/svgs/website.svg" alt="Website" width="40px" height="40px"></a><br><br></td>
+          <td align="center"><br><a href="https://leetcode.com/u/Raghavv1206/" title="LeetCode"><img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="40px" height="40px"></a><br><br></td>
+          <td align="center"><br><a href="https://github.com/Raghavv1206" title="GitHub"><img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="40px" height="40px"></a><br><br></td>
+        </tr>
+      </table>
+    </td>
+    <td width="200" align="center">
+      <img src="./assets/right-tile.jpg" width="150px" alt="Profile graphic right"/>
+    </td>
+  </tr>
+</table>
 </div>
 
----
+<p align="center">
+  <img src="./assets/city-dark.svg" width="100%" alt="Raghav Mishra 3D Isometric Contribution Graph" />
+</p>
 
-### ✦ About
+<p align="center">
+  <img src="./assets/skill.png" width="100%" alt="Skill Set" />
+</p>
 
-- 🔭 **Engineering**: Building scalable full-stack applications, real-time architectures, and applied GenAI/LLM pipelines.
-- 🧠 **Problem Solving**: 500+ Data Structures & Algorithms solved across LeetCode, GeeksforGeeks, and Code360.
-- 🎯 **Philosophy**: Clean architecture, zero-friction UX, and high-performance production code.
+<div align="center">
+  <table width="100%">
+    <!-- ROW 1: Languages & Core Web -->
+    <tr>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=cpp" width="40px"/><br>C++</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=py" width="40px"/><br>Python</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=js" width="40px"/><br>JS</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=ts" width="40px"/><br>TS</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=react" width="40px"/><br>React</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=nextjs" width="40px"/><br>Next.js</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=tailwind" width="40px"/><br>Tailwind</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=redux" width="40px"/><br>Redux</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=html" width="40px"/><br>HTML</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=css" width="40px"/><br>CSS</td>
+    </tr>
+    <!-- ROW 2: Backend & Databases -->
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="40px"/><br>FastAPI</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=django" width="40px"/><br>Django</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40px"/><br>Node.js</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=express" width="40px"/><br>Express</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="40px"/><br>Postgres</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="40px"/><br>MySQL</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="40px"/><br>MongoDB</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="40px"/><br>Redis</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="40px"/><br>Supabase</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="40px"/><br>Firebase</td>
+    </tr>
+    <!-- ROW 3: GenAI, Machine Learning & Data -->
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="40px"/><br>PyTorch</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="40px"/><br>TensorFlow</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40px"/><br>Sklearn</td>
+      <td align="center"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40px"/><br>HFace</td>
+      <td align="center"><img src="https://img.icons8.com/color/48/parrot.png" width="40px"/><br>LangChain</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40px"/><br>NumPy</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40px"/><br>Pandas</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=opencv" width="40px"/><br>OpenCV</td>
+      <td align="center"><img src="https://cdn.simpleicons.org/openai/412991" width="40px"/><br>OpenAI</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40px"/><br>Streamlit</td>
+    </tr>
+    <!-- ROW 4: DevOps, Cloud & Tools -->
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="40px"/><br>Docker</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="40px"/><br>Linux</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=git" width="40px"/><br>Git</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=github" width="40px"/><br>GitHub</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="40px"/><br>AWS</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="40px"/><br>Postman</td>
+      <td align="center"><img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="40px"/><br>Cloudinary</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="40px"/><br>Vercel</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="40px"/><br>VS Code</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="40px"/><br>Figma</td>
+    </tr>
+  </table>
+</div>
 
----
+<p align="center">
+  <img src="./assets/fav_book.png" width="100%" alt="Favorite Books" />
+</p>
 
-### ✦ Technical Arsenal
+<div align="center">
+  <img src="./assets/books.png" width="100%" alt="Favorite Technical Bookshelf" />
+</div>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg" />
-  <img src="./assets/stack-dark.svg" width="100%" alt="Raghav Mishra technology stack" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raghavv1206/Raghavv1206/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raghavv1206/Raghavv1206/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Raghavv1206/Raghavv1206/output/github-contribution-grid-snake.svg">
 </picture>
 
----
+<p align="center">
+  <img src="./assets/repo.png" width="100%" alt="Top Repositories" />
+</p>
 
-### ✦ Featured Production Projects
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/projects-light.svg" />
-  <img src="./assets/projects-dark.svg" width="100%" alt="Raghav Mishra featured projects" />
-</picture>
+<div align="center">
+  <a href="https://github.com/Raghavv1206/Advision"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Raghavv1206&repo=Advision&theme=midnight&border_radius=8" alt="AdVision Pin" /></a>
+  <a href="https://github.com/Raghavv1206/get-me-a-chai-version-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Raghavv1206&repo=get-me-a-chai-version-2&theme=midnight&border_radius=8" alt="Get Me A Chai Pin" /></a>
+  <br />
+  <a href="https://github.com/Raghavv1206/PROMPTPAL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Raghavv1206&repo=PROMPTPAL&theme=midnight&border_radius=8" alt="PromptPal Pin" /></a>
+  <a href="https://github.com/Raghavv1206/Medimate-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Raghavv1206&repo=Medimate-AI&theme=midnight&border_radius=8" alt="MediMate AI Pin" /></a>
+</div>
 
 <br />
 
-#### 🎯 [AdVision](https://github.com/Raghavv1206/Advision) &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000?style=flat-square&logo=vercel)](https://advision-frontend.vercel.app/) [![Repo Stars](https://img.shields.io/github/stars/Raghavv1206/Advision?style=flat-square&color=818cf8)](https://github.com/Raghavv1206/Advision)
-- Multi-modal GenAI ad suite generating copy via **DeepSeek V3.1** and creative visuals via **Stability AI / Pollinations.ai** across 5+ platforms.
-- Real-time campaign telemetry featuring **chi-square A/B testing (p < 0.05)**, **7-day conversion forecasting using scikit-learn Linear Regression**, and automated ROAS optimization.
+<div align="center">
 
-#### ☕ [Get Me A Chai (v2)](https://github.com/Raghavv1206/get-me-a-chai-version-2) &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000?style=flat-square&logo=vercel)](https://raghavs-get-me-a-chai.vercel.app/) [![Repo Stars](https://img.shields.io/github/stars/Raghavv1206/get-me-a-chai-version-2?style=flat-square&color=818cf8)](https://github.com/Raghavv1206/get-me-a-chai-version-2)
-- High-concurrency creator crowdfunding ecosystem on **Next.js 15.5** and **MongoDB** with per-creator **Razorpay payments** and **HMAC-SHA256 verification**.
-- Integrated **10 OpenRouter AI endpoints** for automated campaign storytelling, funding milestone planning, and content moderation.
+| Project | Architecture Highlights | Links |
+| :--- | :--- | :---: |
+| **🎯 [AdVision](https://github.com/Raghavv1206/Advision)** | Multi-modal GenAI advertising suite generating copy via **DeepSeek V3.1** & creative visuals via **Stability AI** across 5+ platforms with chi-square A/B testing and linear regression conversion forecasting. | [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000?style=flat-square&logo=vercel)](https://advision-frontend.vercel.app/) [![GitHub](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/Raghavv1206/Advision) |
+| **☕ [Get Me A Chai (v2)](https://github.com/Raghavv1206/get-me-a-chai-version-2)** | Creator monetization & crowdfunding ecosystem on **Next.js 15.5** & **MongoDB** with per-creator **Razorpay payments**, HMAC-SHA256 signature verification, and 10 OpenRouter AI endpoints. | [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000?style=flat-square&logo=vercel)](https://raghavs-get-me-a-chai.vercel.app/) [![GitHub](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/Raghavv1206/get-me-a-chai-version-2) |
+| **💡 [PromptPal](https://github.com/Raghavv1206/PROMPTPAL)** | Prompt engineering workspace with interactive **Spline 3D WebGL** runtime animations, multi-model evaluation workflows, and real-time OpenAI API telemetry. | [![GitHub](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/Raghavv1206/PROMPTPAL) |
+| **💊 [MediMate AI](https://github.com/Raghavv1206/Medimate-AI)** | Clinical medication adherence platform with **WhatsApp Cloud API** 1-tap quick replies, 3-Tier fail-safe escalation to **Twilio voice robocalls**, and **Llama 3.3** active ingredient validation. | [![GitHub](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/Raghavv1206/Medimate-AI) |
 
-#### 💡 [PromptPal](https://github.com/Raghavv1206/PROMPTPAL) &nbsp; [![Repo Stars](https://img.shields.io/github/stars/Raghavv1206/PROMPTPAL?style=flat-square&color=818cf8)](https://github.com/Raghavv1206/PROMPTPAL)
-- Intelligent prompt experimentation workspace built with **Next.js 15.5**, **React 19.1**, and interactive **Spline 3D WebGL** runtime animations.
-- Multi-model evaluation workflows leveraging **OpenAI API** pipelines for prompt optimization, few-shot generation, and real-time telemetry.
+</div>
 
-#### 💊 [MediMate AI](https://github.com/Raghavv1206/Medimate-AI) &nbsp; [![Repo Stars](https://img.shields.io/github/stars/Raghavv1206/Medimate-AI?style=flat-square&color=818cf8)](https://github.com/Raghavv1206/Medimate-AI)
-- Zero-friction healthcare adherence platform operating directly over conversational **WhatsApp Cloud API** with 1-tap quick replies (`1` Taken, `2` Snooze, `3` Skip).
-- Automated **3-Tier Fail-Safe Escalation Pipeline**: WhatsApp reminder → follow-up nudge → Caretaker alert → carrier-grade **Twilio automated voice robocall** (`Polly.Aditi`).
-- Explainable **5-Factor Deterministic Clinical Risk Engine (0–100)** with 7-day predictive adherence forecasts and **Meta Llama 3.3 70B** duplicate active ingredient/overdose checking.
-
----
-
-### ✦ The City I Built This Year
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/city-light.svg" />
-  <img src="./assets/city-dark.svg" width="100%" alt="Raghav Mishra 3D contribution city" />
-</picture>
-
-<p align="center"><sub>Every building represents a day; taller structures mark heavier contribution velocity.</sub></p>
-
----
-
-### ✦ Play The Next Move
+<br />
+<hr />
 
 <div align="center">
+
+### ♟️ Play The Next Move
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/chess-dark.svg" />
@@ -152,29 +210,5 @@
 </details>
 
 <p align="center"><sub>Powered by GitHub Actions & python-chess. When you submit a move issue, automation validates the move, advances the board, and logs your turn.</sub></p>
-
-</div>
-
----
-
-<div align="center">
-
-### ✦ Keep The Story Moving
-
-<p>Always open to discussing full-stack engineering roles, applied AI/ML systems, and ambitious open-source projects.</p>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/social-light.svg" />
-  <img src="./assets/social-dark.svg" width="100%" alt="Raghav Mishra contact links" />
-</picture>
-
-<br />
-
-<p>
-  <a href="http://raghavmishra.dev/"><strong>✦ Portfolio: raghavmishra.dev</strong></a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/raghav-mishra-677418316/"><strong>LinkedIn</strong></a> &nbsp;·&nbsp;
-  <a href="https://github.com/raghavv1206"><strong>GitHub</strong></a> &nbsp;·&nbsp;
-  <a href="mailto:raghavm205@gmail.com"><strong>Email</strong></a>
-</p>
 
 </div>
