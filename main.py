@@ -11,6 +11,7 @@ import yaml
 from github import Github
 
 import src.markdown as markdown
+from src.render_svg import generate_midnight_svg
 import src.selftest as selftest
 
 # TODO: Use an image instead of a raw link to start new games
@@ -196,9 +197,15 @@ def main(issue, issue_author, repo_owner):
         os.rename('games/current.pgn', datetime.now().strftime('games/game-%Y%m%d-%H%M%S.pgn'))
         os.remove('data/last_moves.txt')
 
+    # Render and update visual Midnight SVG board
+    last_played = action[1] if (action and len(action) > 1 and action[1]) else None
+    svg_board = generate_midnight_svg(gameboard, last_move=last_played)
+    with open('assets/chess-dark.svg', 'w', encoding='utf-8') as f:
+        f.write(svg_board)
+
     with open('README.md', 'r', encoding='utf-8') as file:
         readme = file.read()
-        readme = replace_text_between(readme, settings['markers']['board'], markdown.board_to_markdown(gameboard))
+        readme = replace_text_between(readme, settings['markers']['board'], '')
         readme = replace_text_between(readme, settings['markers']['moves'], markdown.generate_moves_list(gameboard))
         readme = replace_text_between(readme, settings['markers']['turn'], 'white' if gameboard.turn == chess.WHITE else 'black')
         readme = replace_text_between(readme, settings['markers']['last_moves'], last_moves)
