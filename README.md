@@ -1,7 +1,8 @@
 <div align="center">
 
 # ✦ Raghav Mishra ✦
-### Frontend & Full-Stack Software Engineer · Bhopal, MP, India
+### Final-Year CS Student · Full-Stack & Applied AI/ML Engineer · 500+ DSA Solved
+**Bhopal, MP, India**
 
 <p align="center">
   <a href="http://raghavmishra.dev/">
@@ -24,83 +25,108 @@
 <!-- Cinematic Hero Card -->
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
-  <img src="./assets/hero-dark.svg" width="100%" alt="Raghav Mishra cinematic profile card" />
+  <img src="./assets/hero-dark.svg" width="100%" alt="Raghav Mishra profile card" />
 </picture>
 
 <!-- Animated ASCII Terminal Wordmark -->
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/wordmark-light.svg" />
-  <img src="./assets/wordmark-dark.svg" width="100%" alt="Raghav Mishra animated ASCII terminal wordmark" />
+  <img src="./assets/wordmark-dark.svg" width="100%" alt="Raghav Mishra ASCII terminal wordmark" />
 </picture>
 
 </div>
 
 ---
 
-### ✦ The Point of View
+### ✦ Executive Profile
 
-> *“I am a passionate 3rd-year B.Tech Computer Science student crafting scalable web applications, fluid user interfaces, and intelligent systems. I believe in small focused teams, ambitious ideas, and shipping software that creates tangible value.”*
+> Final-year Computer Science Engineering student (**CGPA: 8.25/10.0**) at LNCT University with **500+ DSA problems solved** across LeetCode, Code360, and GeeksforGeeks. Experienced in architecting production software systems with **Python, FastAPI, Django REST, React 18+, and Next.js 15**. Strong background in backend engineering, full-stack development, and applied AI/ML (LLM integration and ML pipelines).
 
-- 🔭 **Current Focus**: Architecting full-stack applications with **Next.js 15**, **React 19**, **Python**, and **Generative AI models**.
-- 🚀 **Specialty**: High-performance frontend engineering, design systems, and robust API development.
-- 💡 **Open for**: Engineering internships, high-impact collaborations, and open-source contributions.
+- 🏢 **Industry Experience**:
+  - **Full Stack Developer Intern** @ *Newrise Technosys Pvt. Ltd.* (July 2026 – Present) — Built project management modules for a multi-tenant Payroll & HR Management System using FastAPI, SQLAlchemy, React, TypeScript, and MySQL.
+  - **Industrial Trainee, DTG Dept.** @ *Bharat Heavy Electricals Ltd. (BHEL), Bhopal* (June 2026) — Built and deployed **BHEL Connect**, an internal employee marketplace and group-buying platform end-to-end (Django REST, React, PostgreSQL, Redis).
+- 🏆 **Major Hackathons & Competitions**:
+  - **Capgemini Exceller AgentifAI Buildathon 2026**: Ranked **Top 11–50** nationwide out of **8,000+ teams and 50,000+ participants**.
+  - **Amazon ML Challenge 2026**: Built an entity-resolution ML pipeline resolving ~10M noisy multilingual records against a 1.7M catalog with TF-IDF candidate blocking and LightGBM (**0.972 leaderboard score**).
+- 👔 **Leadership**: Former **Vice President, E-Cell** @ LNCT University (connected 15+ student founders with industry mentors across 200+ participants).
 
 ---
 
-### ✦ In the Current Cut
+### ✦ In The Current Cut
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/highlights-light.svg" />
-  <img src="./assets/highlights-dark.svg" width="100%" alt="Raghav Mishra cinematic highlights" />
+  <img src="./assets/highlights-dark.svg" width="100%" alt="Raghav Mishra active highlights" />
 </picture>
-
-<p align="center"><sub>The active ideas, experiments, and tech moving the work forward.</sub></p>
 
 ---
 
-### ✦ Production Palette
+### ✦ Technical Arsenal
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg" />
-  <img src="./assets/stack-dark.svg" width="100%" alt="Raghav Mishra animated technology stack" />
+  <img src="./assets/stack-dark.svg" width="100%" alt="Raghav Mishra technology stack" />
 </picture>
 
 <br />
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,tailwind,nodejs,express,django,mongodb,postgres,docker,linux,git,github,postman,figma&perline=9&theme=dark" alt="Raghav's Tech Ecosystem" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,tailwind,redux,fastapi,django,nodejs,express,postgres,mysql,mongodb,redis,docker,linux,git,github,postman&perline=11&theme=dark" alt="Raghav's Tech Ecosystem" />
   </a>
 </p>
 
-<p align="center"><sub>Python · JavaScript · TypeScript · React · Next.js · Tailwind CSS · Node.js · Express · Django · MongoDB · PostgreSQL · Docker · Linux</sub></p>
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | C++, Python, JavaScript, TypeScript, SQL |
+| **Backend & APIs** | FastAPI, Django, Django REST Framework, Node.js, Express.js, SQLAlchemy |
+| **Frontend** | React 18+, Next.js 15, TypeScript, Tailwind CSS, Redux Toolkit, HTML5, CSS3 |
+| **Databases & Cache** | PostgreSQL, MySQL (Relational) · MongoDB, Redis (NoSQL) |
+| **Applied AI / ML** | LLM Integration, Prompt Engineering, Generative AI APIs, ML Pipelines, scikit-learn, LightGBM |
+| **DevOps & Tools** | Git, Docker, Postman, Cloudinary, Vercel, Render, Linux |
+| **Problem Solving** | 500+ DSA Solved (LeetCode, Code360, GeeksforGeeks 160) |
 
 ---
 
-### ✦ Featured Reel
+### ✦ Featured Production Projects
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/projects-light.svg" />
-  <img src="./assets/projects-dark.svg" width="100%" alt="Raghav Mishra featured projects reel" />
+  <img src="./assets/projects-dark.svg" width="100%" alt="Raghav Mishra featured projects" />
 </picture>
 
 <br />
 
-#### 🎯 [AdVision](https://github.com/Raghavv1206/Advision) &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000?style=flat-square&logo=vercel)](https://advision-frontend.vercel.app/) [![Repo Stars](https://img.shields.io/github/stars/Raghavv1206/Advision?style=flat-square&color=818cf8)](https://github.com/Raghavv1206/Advision)
-> Enterprise-grade, AI-powered advertising platform that revolutionizes multi-platform campaigns. Combines DeepSeek V3.1, Stability AI, Next.js, and Python to generate high-converting ad copy, visual creatives, and real-time performance analytics.  
-> **Tech**: `Python` · `Next.js` · `DeepSeek V3.1` · `Stability AI` · `Tailwind CSS`
+#### 🎯 [AdVision – Multi-Modal Generative AI Advertising Platform](https://github.com/Raghavv1206/Advision) &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000?style=flat-square&logo=vercel)](https://advision-frontend.vercel.app/) [![Repo Stars](https://img.shields.io/github/stars/Raghavv1206/Advision?style=flat-square&color=818cf8)](https://github.com/Raghavv1206/Advision)
+- Architected a multi-modal GenAI advertising platform using **Django REST Framework** and **PostgreSQL**.
+- Automated platform-specific ad copy generation via **DeepSeek V3.1** and marketing visual generation via **Stability AI/Pollinations** for Instagram, Facebook, LinkedIn, TikTok, and YouTube.
+- Engineered campaign analytics with **chi-square A/B testing (p < 0.05)**, **7-day conversion forecasting using scikit-learn Linear Regression**, and automated budget allocation recommendations.
+- Secured third-party credentials with **Fernet encryption**.
+- **Stack**: `Python` · `Django REST` · `PostgreSQL` · `DeepSeek` · `Stability AI` · `scikit-learn` · `Next.js`
 
-#### ☕ [Get Me A Chai (v2)](https://github.com/Raghavv1206/get-me-a-chai-version-2) &nbsp; [![Repo Stars](https://img.shields.io/github/stars/Raghavv1206/get-me-a-chai-version-2?style=flat-square&color=818cf8)](https://github.com/Raghavv1206/get-me-a-chai-version-2)
-> Full-stack creator crowdfunding and patronage platform empowering creators to fund projects one chai at a time. Features seamless creator dashboards, dynamic payment flows, and responsive UI.  
-> **Tech**: `JavaScript` · `Next.js 15` · `React` · `Tailwind CSS` · `MongoDB`
+#### ☕ [Get Me A Chai – AI-Powered Creator Monetization Platform](https://github.com/Raghavv1206/get-me-a-chai-version-2) &nbsp; [![Repo Stars](https://img.shields.io/github/stars/Raghavv1206/get-me-a-chai-version-2?style=flat-square&color=818cf8)](https://github.com/Raghavv1206/get-me-a-chai-version-2)
+- Built a modern crowdfunding platform on **Next.js 15** with per-creator **Razorpay payments**, **HMAC-SHA256 signature verification**, duplicate-payment protection, and recurring subscriptions for direct creator settlement.
+- Implemented **10 AI endpoints via OpenRouter** (campaign generation, scoring, content moderation, recommendations, chatbot).
+- Protected API routes with **Zod validation**, role-based route guards, and per-endpoint rate limiting; added creator analytics with PDF/CSV data export.
+- **Stack**: `Next.js 15` · `React 19` · `TypeScript` · `Tailwind CSS` · `MongoDB` · `OpenRouter` · `Razorpay`
 
-#### 💡 [PromptPal](https://github.com/Raghavv1206/PROMPTPAL) &nbsp; [![Repo Stars](https://img.shields.io/github/stars/Raghavv1206/PROMPTPAL?style=flat-square&color=818cf8)](https://github.com/Raghavv1206/PROMPTPAL)
-> AI prompt experimentation and optimization studio. Enables users to refine, benchmark, and analyze prompt outputs across diverse model parameters through an interactive dashboard.  
-> **Tech**: `JavaScript` · `React` · `AI Prompt Engine` · `CSS Modules`
+#### 🏢 [BHEL Connect – Enterprise Employee Marketplace](https://github.com/Raghavv1206)
+- Built and deployed an internal employee marketplace and group-buying platform end-to-end for Bharat Heavy Electricals Ltd. (BHEL).
+- Integrated role-based authentication, real-time listing feeds, and Redis caching for optimal latency.
+- **Stack**: `Django REST Framework` · `React 18+` · `PostgreSQL` · `Redis` · `Render` · `Vercel`
 
-#### 🌲 [Bittree](https://github.com/Raghavv1206/Bittree) &nbsp; [![Repo Stars](https://img.shields.io/github/stars/Raghavv1206/Bittree?style=flat-square&color=818cf8)](https://github.com/Raghavv1206/Bittree)
-> High-performance link-sharing application inspired by Linktree. Engineered with responsive layouts, customizable themes, and rapid link routing.  
-> **Tech**: `JavaScript` · `Next.js` · `Tailwind CSS`
+#### 💡 [PromptPal – AI Prompt Optimization Studio](https://github.com/Raghavv1206/PROMPTPAL) &nbsp; [![Repo Stars](https://img.shields.io/github/stars/Raghavv1206/PROMPTPAL?style=flat-square&color=818cf8)](https://github.com/Raghavv1206/PROMPTPAL)
+- Interactive prompt crafting and benchmarking platform enabling developers to test, optimize, and evaluate LLM responses across model parameters.
+- **Stack**: `JavaScript` · `React` · `LLM APIs` · `Tailwind CSS`
+
+---
+
+### ✦ Certifications & Credentials
+
+- ☁️ **AWS**: Generative AI Foundations
+- 🤖 **Google for Developers**: AI-ML Virtual Internship (10-Week Intensive via EduSkills)
+- ☁️ **Salesforce**: Agentforce Specialist & Platform Developer 1
+- 💻 **GeeksforGeeks**: GfG 160 – 160 Days of Problem Solving
 
 ---
 
@@ -130,7 +156,7 @@
 
 ### ✦ Keep The Story Moving
 
-<p>I enjoy working with engineers and teams who care about the details, share the context, and ship something useful.</p>
+<p>Always open to discussing full-stack engineering roles, applied AI/ML systems, and ambitious open-source projects.</p>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/social-light.svg" />
@@ -146,6 +172,6 @@
   <a href="mailto:raghavm205@gmail.com"><strong>Email</strong></a>
 </p>
 
-<p><sub>Designed & coded by Raghav Mishra</sub></p>
+<p><sub>Raghav Mishra · Computer Science Engineering · LNCT University</sub></p>
 
 </div>
